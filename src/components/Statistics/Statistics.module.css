@@ -1,0 +1,13 @@
+.statBlock {
+  width: 30%;
+  background-color: #8f8f8f;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 50px;
+}
+
+.statItem {
+  color: #fff;
+  font-size: 25px;
+  margin-bottom: 30px;
+}

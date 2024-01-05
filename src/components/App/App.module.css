@@ -1,0 +1,10 @@
+:root {
+  --main-color: #323233;
+  --second-color: hsl(0, 0%, 93%);
+  --third-color: #4a4a4d;
+}
+
+.main {
+  text-align: center;
+  padding-top: 50px;
+}
